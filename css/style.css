@@ -18,7 +18,7 @@ header{
 	font-size: 22px;
 	color: #010101 !important;
 	text-transform: capitalize;
-	padding: 0 55px !important;
+	padding: 0 45px !important;
 	transition: 0.3s;
 } 
 .menu ul li a:hover{
@@ -169,6 +169,17 @@ header{
 	background-color: white;
 }
 /* links end */
+.contact_icon{
+	text-align: center;
+}
+.contact_icon i{
+	height: 42px;
+	width: 42px;
+	background-color: #fcdb00;
+	border-radius: 10px;
+	font-size: 40px;
+	margin: 0 16px;
+}
 /* contact end */
 
 /* footer start */
