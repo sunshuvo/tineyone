@@ -25,7 +25,7 @@ header{
 	color: white !important;
 	animation: mover .5s infinite  alternate;
 } 
-.menu ul li a:last-child{
+.menu ul li:last-child a{
 	padding-right: 0 !important;
 }
 /* Header End */
