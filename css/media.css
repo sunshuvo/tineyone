@@ -68,10 +68,16 @@
 		padding-bottom: 70px;
 	}
 	.c_form{
-		margin-bottom: 10px;
+		margin-bottom: 30px;
 	}
 	.c_submit{
 		margin-top: 20px;
+	}
+	.contact_icon i{
+		height: 32px;
+		width: 32px;
+		font-size: 28px;
+		margin: 0 10px;
 	}
 	/* contact end */
 	
@@ -123,7 +129,13 @@
 		padding-bottom: 80px;
 	}
 	.c_form{
-		margin-bottom: 20px;
+		margin-bottom: 40px;
+	}
+	.contact_icon i{
+		height: 32px;
+		width: 32px;
+		font-size: 28px;
+		margin: 0 10px;
 	}
 	/* contact end */
 	
@@ -151,6 +163,14 @@
 		margin-top: 40px;
 	}
 	/* caurasol end */
+	/* contact start */
+	.contact_icon i{
+		height: 32px;
+		width: 32px;
+		font-size: 28px;
+		margin: 0 10px;
+	}
+	/* contact end */
 }
 
 /* Large devices (desktops, 992px and up) */
