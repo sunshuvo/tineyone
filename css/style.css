@@ -169,16 +169,25 @@ header{
 	background-color: white;
 }
 /* links end */
-.contact_icon{
-	text-align: center;
-}
-.contact_icon i{
+.contact_icon{}
+.contact_icon a{
+	display: inline-block;
 	height: 42px;
 	width: 42px;
 	background-color: #fcdb00;
+	color: #010101;
+	line-height: 50px;
 	border-radius: 10px;
-	font-size: 40px;
 	margin: 0 16px;
+	transition: 0.3s;
+}
+.contact_icon a:hover{
+	background-color: white;
+	animation: mover .5s infinite  alternate;
+}
+.contact_icon ul li a i{
+	font-size: 25px;
+	margin: 0;
 }
 /* contact end */
 
