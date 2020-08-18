@@ -73,12 +73,17 @@
 	.c_submit{
 		margin-top: 20px;
 	}
-	.contact_icon i{
+	
+	.contact_icon a{
 		height: 32px;
 		width: 32px;
-		font-size: 28px;
+		line-height: 36px;
 		margin: 0 10px;
 	}
+	.contact_icon ul li a i{
+		font-size: 22px;
+	}
+
 	/* contact end */
 	
 	/* footer start */
@@ -131,11 +136,8 @@
 	.c_form{
 		margin-bottom: 40px;
 	}
-	.contact_icon i{
-		height: 32px;
-		width: 32px;
-		font-size: 28px;
-		margin: 0 10px;
+	.contact_icon a{
+		margin: 0 7px;
 	}
 	/* contact end */
 	
